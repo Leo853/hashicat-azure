@@ -1,4 +1,4 @@
 # hashicat
-Hashicat: A terraform built application for use in Hashicorp workshops
+Hashicat: A terraform built application for use in Hashicorp workshops.
 
-Includes "Meow World" website.
+Includes the "Meow World" website. 😻
